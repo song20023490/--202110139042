@@ -91,5 +91,5 @@ public class SchoolSystem implements ISignUp,IParams {
             schoolSystem.addStudent(x[i]);
         }
         schoolSystem.print();
-    }
+    }//’‚ «◊¢ Õ
 }
